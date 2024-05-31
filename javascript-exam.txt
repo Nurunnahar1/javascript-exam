@@ -1,0 +1,6 @@
+1.   https://6627c2d4a6c76a085633b599--capable-florentine-d67632.netlify.app/        (student crud)
+2.   https://660c1dd9c44ead339abe2b4b--beautiful-heliotrope-5a5fdc.netlify.app/      (facebook timeline)
+3.   https://6648e2347f95c9c886dc0496--majestic-pony-ce0ac6.netlify.app/             (analog clock)
+4.   https://6627c1c93d3a45087c30f07e--capable-florentine-d67632.netlify.app/        (digital Clock)
+5.   https://6648e2a3da79e8ff45b95ed0--beautiful-pie-0065bf.netlify.app/             (bootstrap accordion lone	)
+6.   https://6648e30c92f790ffb188a7a9--dapper-blini-0654b0.netlify.app/              (facebook bio clone)
